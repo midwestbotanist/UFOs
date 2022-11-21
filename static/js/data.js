@@ -990,8 +990,8 @@ var data = [
     comments: "A bright light hovering in the southwestern sky.  ((NUFORC Note:  Possible sighting of Sirius.  PD))"
   },
   {
-    city: "gulf breeze",
-    datetime: "1/13/2010",
+    city: "1/13/2010",
+    datetime: "gulf breeze",
     state: "fl",
     country: "us",
     shape: "unknown",
