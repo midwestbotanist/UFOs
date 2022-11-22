@@ -1,4 +1,5 @@
 # UFOs
+Link to GitHub Pages: https://midwestbotanist.github.io/UFOs/static/index.html 
 
 ## Overview of Project
 The purpose of this project was to gather information on UFO sightings and to insert that information into a dynamic webpage to allow users to filter through a table to find specific sightings. To create this, HTML was written to format the page in an aesthetic matter, CSS to provide style, and JavaScript to allow interactivity. 
